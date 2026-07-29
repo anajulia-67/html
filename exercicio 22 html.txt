@@ -1,0 +1,16 @@
+<DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title> EXERCICIO 22  </title>
+</head>
+<body>
+
+<h1>reprodutor de midia de locais </h1>
+
+<h2>arquivo audio<h3> 
+    <audio controls>
+        <source src="spiderman.m3.mp3">
+        <audio>
+            <body>
+            <htm>

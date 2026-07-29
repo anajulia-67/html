@@ -1,0 +1,14 @@
+<!DOCTYBE html>
+<html long="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name=description conte
+
+
+        <title>exercicios 25- pagina otimizada SEO </title>
+    </head>
+</body>
+<h1> Artigo otimizado para montores de Busca</h1>
+<p> as informaçors contidas no cabeçario ajudam...</p>
+</body
+<html>
